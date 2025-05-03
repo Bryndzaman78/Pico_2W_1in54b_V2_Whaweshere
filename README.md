@@ -6,3 +6,4 @@ The [DISPLAY LINK](https://www.waveshare.com/1.54inch-e-Paper-Module-B.htm) and 
 [GUI-e_Paper-Font-Files](https://github.com/waveshareteam/e-Paper/tree/master/RaspberryPi_JetsonNano/c/lib) | 
 [Help-With-Understanding](https://github.com/hammadrauf/pico_epd_1in54)
 ### Build your self
+     https://github.com/Bryndzaman78/Pico_2W_1in54b_V2_Whaweshere
